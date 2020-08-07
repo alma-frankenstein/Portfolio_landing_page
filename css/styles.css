@@ -32,10 +32,12 @@ h4 {
   padding: 16px;
   line-height: 1.5em;
   margin-bottom: 20px;
+  opacity: 0.5;
   box-sizing: border-box;
 }
 
 img {
   float: left;
   padding-right: 10px;
+  opacity: 1;
 }
