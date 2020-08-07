@@ -7,9 +7,16 @@ h2, h3 {
   text-align: center;
 }
 
-.projects {
+.projects, .aboutMe {
   background-color: silver;
   width: auto;
   padding: 16px;
+  margin-bottom: 20px;
   box-sizing: border-box;
+}
+
+img {
+  float: left;
+  /* padding-left: 4px; */
+  padding-right: 10px;
 }
