@@ -10,6 +10,7 @@ This was a class assignment, and will also be used as a functional portfolio pag
 ## Setup
 
 Clone this repo using:
+
 ```git clone https://github.com/alma-frankenstein/Portfolio_landing_page.git portfolio```
 
 The working version of this site can be viewed on GitHub Pages, alma-frankenstein.github.io/portfolio.
