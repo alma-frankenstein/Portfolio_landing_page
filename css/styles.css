@@ -44,3 +44,10 @@ img {
   float: left;
   padding-right: 10px;
 }
+
+.sidebar_left {
+  background-color: hotpink;
+  height: 100%;
+  width: 4%;
+  float: left;
+}
