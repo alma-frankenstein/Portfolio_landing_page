@@ -13,7 +13,9 @@ Clone this repo using:
 
 ```git clone https://github.com/alma-frankenstein/Portfolio_landing_page.git portfolio```
 
-The working version of this site can be viewed on GitHub Pages, alma-frankenstein.github.io/portfolio.
+Open index.html in your browser to view the page
+
+The working version of this site can be viewed on GitHub Pages, <alma-frankenstein.github.io/portfolio>.
 
 ## Technologies Used
 
@@ -24,5 +26,7 @@ The working version of this site can be viewed on GitHub Pages, alma-frankenstei
 
 For questions or to suggestions, please email A.Q.Frankenstein@gmail.com
 
+### License
 
+This software is licensed under the MIT license.
 Copyright (c) 2020 Alma Frankenstein
